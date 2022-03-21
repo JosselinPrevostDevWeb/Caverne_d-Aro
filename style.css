@@ -1,0 +1,16 @@
+body    {
+    background-color: #E89D7D;
+    margin: 0;
+}
+footer{
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+}
+.lorem{
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+    padding: auto;
+}
